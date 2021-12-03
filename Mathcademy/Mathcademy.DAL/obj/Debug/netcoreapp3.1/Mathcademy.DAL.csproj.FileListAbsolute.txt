@@ -1,0 +1,12 @@
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\bin\Debug\netcoreapp3.1\Mathcademy.DAL.deps.json
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\bin\Debug\netcoreapp3.1\Mathcademy.DAL.dll
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\bin\Debug\netcoreapp3.1\Mathcademy.DAL.pdb
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\bin\Debug\netcoreapp3.1\Mathcademy.Domain.dll
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\bin\Debug\netcoreapp3.1\Mathcademy.Domain.pdb
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\obj\Debug\netcoreapp3.1\Mathcademy.DAL.csproj.AssemblyReference.cache
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\obj\Debug\netcoreapp3.1\Mathcademy.DAL.AssemblyInfoInputs.cache
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\obj\Debug\netcoreapp3.1\Mathcademy.DAL.AssemblyInfo.cs
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\obj\Debug\netcoreapp3.1\Mathcademy.DAL.csproj.CoreCompileInputs.cache
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\obj\Debug\netcoreapp3.1\Mathcademy.DAL.csproj.CopyComplete
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\obj\Debug\netcoreapp3.1\Mathcademy.DAL.dll
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.DAL\obj\Debug\netcoreapp3.1\Mathcademy.DAL.pdb

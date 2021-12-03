@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mathcademy.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Mathcademy.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Mathcademy.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mathcademy.BLL.dll": {}
+        }
+      },
+      "Mathcademy.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Mathcademy.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Mathcademy.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mathcademy.DAL.dll": {}
+        }
+      },
+      "Mathcademy.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Mathcademy.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mathcademy.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mathcademy.BLL/1.0.0": {
+      "type": "project",
+      "path": "../Mathcademy.BLL/Mathcademy.BLL.csproj",
+      "msbuildProject": "../Mathcademy.BLL/Mathcademy.BLL.csproj"
+    },
+    "Mathcademy.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Mathcademy.DAL/Mathcademy.DAL.csproj",
+      "msbuildProject": "../Mathcademy.DAL/Mathcademy.DAL.csproj"
+    },
+    "Mathcademy.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Mathcademy.Domain/Mathcademy.Domain.csproj",
+      "msbuildProject": "../Mathcademy.Domain/Mathcademy.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Mathcademy.BLL >= 1.0.0",
+      "Mathcademy.DAL >= 1.0.0",
+      "Mathcademy.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ppgaw\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.Web\\Mathcademy.Web.csproj",
+      "projectName": "Mathcademy.Web",
+      "projectPath": "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.Web\\Mathcademy.Web.csproj",
+      "packagesPath": "C:\\Users\\ppgaw\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.Web\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ppgaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.BLL\\Mathcademy.BLL.csproj": {
+              "projectPath": "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.BLL\\Mathcademy.BLL.csproj"
+            },
+            "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.DAL\\Mathcademy.DAL.csproj": {
+              "projectPath": "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.DAL\\Mathcademy.DAL.csproj"
+            },
+            "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.Domain\\Mathcademy.Domain.csproj": {
+              "projectPath": "C:\\repos\\Mathcademy\\App\\Mathcademy\\Mathcademy.Domain\\Mathcademy.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

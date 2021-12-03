@@ -1,0 +1,9 @@
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\bin\Debug\netcoreapp3.1\Mathcademy.Domain.deps.json
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\bin\Debug\netcoreapp3.1\Mathcademy.Domain.dll
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\bin\Debug\netcoreapp3.1\Mathcademy.Domain.pdb
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\obj\Debug\netcoreapp3.1\Mathcademy.Domain.AssemblyInfoInputs.cache
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\obj\Debug\netcoreapp3.1\Mathcademy.Domain.AssemblyInfo.cs
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\obj\Debug\netcoreapp3.1\Mathcademy.Domain.csproj.CoreCompileInputs.cache
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\obj\Debug\netcoreapp3.1\Mathcademy.Domain.dll
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\obj\Debug\netcoreapp3.1\Mathcademy.Domain.pdb
+C:\repos\Mathcademy\App\Mathcademy\Mathcademy.Domain\obj\Debug\netcoreapp3.1\Mathcademy.Domain.csproj.AssemblyReference.cache

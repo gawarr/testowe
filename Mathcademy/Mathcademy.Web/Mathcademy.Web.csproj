@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mathcademy.BLL\Mathcademy.BLL.csproj" />
+    <ProjectReference Include="..\Mathcademy.DAL\Mathcademy.DAL.csproj" />
+    <ProjectReference Include="..\Mathcademy.Domain\Mathcademy.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
